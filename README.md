@@ -9,7 +9,7 @@
 
 ## 🏆 Trophies
 
-![kuska1](https://github-profile-trophy.vercel.app/?username=kuska1&column=6&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=onestar)
+![kuska1](https://github-profile-trophy.vercel.app/?username=kuska1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=onestar)
 
 ## 🔗 Links
 
