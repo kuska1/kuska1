@@ -11,6 +11,11 @@
 
 ![kuska1](https://github-profile-trophy.vercel.app/?username=kuska1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=onestar)
 
+## ❤️ Support
+
+[![ko-fi](https://img.shields.io/badge/ko--fi-red?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/flowird)
+[![donatello](https://img.shields.io/badge/donatello-blue?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://donatello.to/flowird)
+
 ## 🔗 Links
 
 - [Mail](mailto:kusakaonelove@gmail.com)
