@@ -1,16 +1,17 @@
-## Hi there 👋
+# 😸 kuska1
+## 📑 Info
 
-<!--
-**kuska1/kuska1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![kuska1](https://github-readme-stats.vercel.app/api?username=kuska1&show_icons=true&locale=en&theme=dark&hide_border=true&icon_color=ffffff&cache_seconds=86400&border_radius=24&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage") ![kuska1](https://github-readme-stats.vercel.app/api/top-langs?username=kuska1&show_icons=true&locale=en&layout=normal&theme=dark&hide_border=true&cache_seconds=86400&border_radius=24)
 
-Here are some ideas to get you started:
+## 📂 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![DotaHelper](https://github-readme-stats.vercel.app/api/pin/?username=kuska1&repo=DotaHelper&theme=dark&icon_color=ffffff&hide_border=true&cache_seconds=86400&border_radius=24)](https://github.com/kuska1/DotaHelper)
+
+## 🏆 Trophies
+
+![kuska1](https://github-profile-trophy.vercel.app/?username=kuska1&column=6&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=onestar)
+
+## 🔗 Links
+
+- [Mail](mailto:kusakaonelove@gmail.com)
+- [Telegram](https://t.me/Ym9nZGFu)
