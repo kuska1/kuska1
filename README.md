@@ -19,4 +19,4 @@
 
 ## ❤️ Support
 
-[![kuska1](https://img.shields.io/badge/donatello-blue?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://kuska1.github.io)
+[![kuska1](https://img.shields.io/badge/kuska1-blue?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://kuska1.github.io)
