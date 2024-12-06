@@ -12,11 +12,6 @@
 
 [![kuska1/trophies](https://github-profile-trophy.vercel.app/?username=kuska1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=onestar)](httpss://github.com)
 
-## 🔗 Links
-
-- [Mail](mailto:kusakaonelove@gmail.com)
-- [Telegram](https://t.me/Ym9nZGFu)
-
-## ❤️ Support
+## ❤️ Contact & Donate
 
 [![kuska1](https://img.shields.io/badge/kuska1-blue?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://kuska1.github.io)
