@@ -19,5 +19,4 @@
 
 ## ❤️ Support
 
-[![ko-fi](https://img.shields.io/badge/ko--fi-red?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/flowird)
-[![donatello](https://img.shields.io/badge/donatello-blue?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://donatello.to/flowird)
+[![kuska1](https://img.shields.io/badge/donatello-blue?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://kuska1.github.io)
